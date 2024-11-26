@@ -14,14 +14,22 @@
     "@remix-run/node": "^2.12.1",
     "@remix-run/react": "^2.12.1",
     "@remix-run/serve": "^2.12.1",
+    "fast-xml-parser": "^4.5.0",
     "isbot": "^4.1.0",
+    "punycode": "^2.3.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-insta-stories": "^2.7.0",
+    "rss-parser": "^3.13.0",
+    "sentiment": "^5.0.2",
+    "simple-xml-to-json": "^1.2.3"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.12.1",
+    "@tailwindcss/typography": "^0.5.15",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
+    "@types/sentiment": "^5.0.4",
     "@typescript-eslint/eslint-plugin": "^6.7.4",
     "@typescript-eslint/parser": "^6.7.4",
     "autoprefixer": "^10.4.19",
